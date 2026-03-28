@@ -6,4 +6,4 @@ for num in numbers:
     if num % 2 != 0:
         sum_even += num
 
-print("Sum of even numbers:", sum_even)
+print("Sum of even numbers updated")
